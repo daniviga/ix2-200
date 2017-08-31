@@ -64,7 +64,7 @@ More info available at http://iomega.nas-central.org/wiki/Category:Ix2-200
 Pre-requisites
 ------
 + Debian GNU Linux 8 Jessie
-+ Arch i386 is reccomended 
++ Arch i386 is recommended 
 
 I suggest to create a dev environment using an LXC container with Debian Jessie i686:
 
